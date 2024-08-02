@@ -1,0 +1,16 @@
+/* Reset de estilo basico */
+*{
+    padding-left: 11;
+    margin: 0;
+    padding: 0;
+    /*boxsizing: border-box;*/
+}
+
+    /*estilo do corpo*/
+body{
+    font-family: arial, sans-serif;
+    line-height: 1.6;
+    background-color: rgb(199, 88, 255);
+    color: antiquewhite;
+    padding-top: 50
+}
